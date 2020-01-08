@@ -1,18 +1,9 @@
 ---
-title: "Causal Inference"
-author: "Zhou Dai"
-institute: "UniSA"
-date: "(updated: `r Sys.Date()`)"
-output:
-  xaringan::moon_reader:
-    css: [default,rutgers,rutgers-fonts]
-    lib_dir: libs
-    nature:
-      highlightStyle: github
-      highlightLines: true
-      countIncrementalSlides: false
-
+title: "R Notebook"
+output: html_notebook
 ---
+
+
 # Topics
 
 * What is causal effects
